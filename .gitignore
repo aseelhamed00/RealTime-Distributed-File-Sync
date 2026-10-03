@@ -1,0 +1,11 @@
+client
+server
+client_hub_gui
+server_gui
+
+cloud_storage/
+local_c*/
+
+*.o
+*.tmp
+*.log
